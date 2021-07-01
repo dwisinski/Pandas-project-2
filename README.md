@@ -7,7 +7,7 @@ April 2021
 
 ## Purpose
 
-The purpose of the project is to conduct various exploratory data analysis using historical game data for the Chicago Bulls basketball franchise. Additionally, this project was undertaken to generate original content for presention on a separate web development project using [GitHub Pages.](https://dwisinski.github.io/Web-Dev-challenge/)
+The purpose of the project is to conduct various exploratory data analysis using historical game data for the Chicago Bulls basketball franchise. Additionally, this project was undertaken to generate original content for presentation on a separate web development project using [GitHub Pages.](https://dwisinski.github.io/Web-Dev-challenge/)
 
 ## Source Data
 
